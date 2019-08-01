@@ -1,0 +1,12 @@
+{
+  "name": "@chatonishere/fireteam-name-generator",
+  "version": "1.0.1",
+  "description": "A small (really, it's tiny) generator for fireteam names",
+  "main": "fireteamGenerator.js",
+  "repository": "https://github.com/ChatonIsHere/fireteam-name-generator",
+  "author": "Chaton",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "random-seed": "^0.3.0"
+  }
+}
