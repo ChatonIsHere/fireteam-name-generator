@@ -28,6 +28,7 @@ module.exports.generateFireteamName = (userList) => {
     return `Fireteam ${descriptions[selector.descriptions]} ${creatures[selector.creatures]}`;
 }
 
+// JavaScript Natural Sort by mrhoo
 Array.prototype.naturalSort = function(){
     var a, b, a1, b1, rx=/(\d+)|(\D+)/g, rd=/\d+/;
     return this.sort(function(as, bs){
